@@ -83,6 +83,31 @@ jupyter notebook
 
 This project is developed for educational and learning purposes only. Its predictions should not be considered medical advice, a diagnosis, or a substitute for professional medical consultation.
 
+## 📊 Excel Dashboard – Heart Attack Risk Analysis
+
+This project also includes an Excel dashboard developed to analyze heart attack risk data and explore important health and lifestyle factors.
+
+### 📁 Workbook Details
+
+**File Name:** `excel_dashboard_heart_attack_prediction1.xlsx`
+
+**Dataset Size:** 10,000 patient records
+
+### 🔍 Dashboard Features
+
+- Patient data analysis across demographic and health-related attributes.
+- Gender-wise patient analysis.
+- Heart attack risk distribution.
+- Pivot Table summaries.
+- Dashboard-based data visualization.
+- Analysis of health and lifestyle factors such as diabetes, hypertension, obesity, smoking, and cholesterol levels.
+
+### 📥 Download Excel Dashboard
+
+[Download Excel Dashboard](excel_dashboard_heart_attack_prediction1.xlsx)
+
+**Tool Used:** Microsoft Excel
+
 ## 👩‍💻 Author
 
 **Husanpreet Kaur**
